@@ -67,13 +67,13 @@ python3 -m bot
 
 ### COMMANDS FOR THE BOT TO BE USED-
 
-start - useless command
-help - How to use me
-auth - Authorizing GDrive Account
-setfolder - Set Custom Upload Folder
-copy - Copy GDrive Files
-revoke - Revoke GDrive Account
-del - Delete GDrive Files
+- start - useless command
+- help - How to use me
+- auth - Authorizing GDrive Account
+- setfolder - Set Custom Upload Folder
+- copy - Copy GDrive Files
+- revoke - Revoke GDrive Account
+- del - Delete GDrive Files
 
 ## Credits
 - [Dan](https://github.com/delivrance) for creating [PyroGram](https://pyrogram.org)
