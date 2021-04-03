@@ -59,6 +59,10 @@ pip3 install -r requirements.txt
 ```sh 
 python3 -m bot
 ```
+### How To Deploy Video Tutorial:
+
+[![](https://i.ytimg.com/vi/5Ke_q2_5mNU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAArIzsqRXHm_KX5WSxmyXRfrpt8A)](https://youtu.be/5Ke_q2_5mNU)
+
 
 ## Credits
 - [Dan](https://github.com/delivrance) for creating [PyroGram](https://pyrogram.org)
